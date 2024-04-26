@@ -159,6 +159,7 @@ print(classification_report(y_test,predictions))
 <H3>Output:</H3>
 
 ![image](https://github.com/kanishka2305/Ex-4-NN/assets/113497357/a4c55720-005d-4254-a40e-26e988b1ddfe)
+![image](https://github.com/KameshLeVI/Ex-4-NN/assets/120780633/f5e2adc0-cf65-4a87-a7cb-fb4f75941625)
 
 
 <H3>Result:</H3>
